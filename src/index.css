@@ -1,0 +1,53 @@
+@import url("https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+
+* {
+  font-family: "PT Serif", serif;
+}
+
+.container-input {
+  margin-top: 30px;
+  margin-bottom: 25px;
+  text-align: center;
+}
+
+h3 {
+  padding: 20px;
+}
+
+.container-status {
+  margin-top: 30px;
+  margin-bottom: 25px;
+  text-align: right;
+}
+
+.container-card {
+  margin-top: 30px;
+  margin-bottom: 25px;
+}
+
+.clr{
+  background-color: rgb(114,206,181)  ;
+}
+
+.clar{
+  background-color: rgb(255, 168, 6);
+}
+.clr :hover{
+  color: none;
+}
+
+.clar :hover{
+  background-color:none ;
+}
+.tit-clr{
+  color: rgb(114,206,181);
+}
+.tit-clrr{
+  background-color: rgb(114,206,181);
+}
+.tit-clrred{
+  background-color: rgb(233, 67, 67);
+}
+.tit-clrblu{
+  background-color: rgb(255, 240, 103);
+}
